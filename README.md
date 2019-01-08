@@ -12,6 +12,7 @@
   ## Queue
  - [Queue Using Linked List With CPP](https://github.com/AMIYAMAITY/Data-structure/blob/master/Queue/Queue_Using_Linked_List_With_CPP.cpp).
  - [Double Ended Queue (Dequeue)](https://github.com/AMIYAMAITY/Data-structure/blob/master/Queue/Dequeue.c).
+ - [Priority Queue](https://github.com/AMIYAMAITY/Data-structure/blob/master/Queue/PriorityQueue.c).
  
  
  
