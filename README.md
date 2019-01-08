@@ -6,4 +6,8 @@
  - [Single Linked List](https://github.com/AMIYAMAITY/Data-structure/blob/master/Linked%20List/single_linked_list.c).
  - [Double Linked List](https://github.com/AMIYAMAITY/Data-structure/blob/master/Linked%20List/double_linked_list.c).
  - [Polynomial Addition Using Linked List](https://github.com/AMIYAMAITY/Data-structure/blob/master/Linked%20List/PolynomialAddition.c).
+ ## Stack
+ - - [Stack Using Array](https://github.com/AMIYAMAITY/Data-structure/blob/master/Stack/Stack_Using_Array.c).
+ 
+ 
 
