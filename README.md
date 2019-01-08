@@ -18,6 +18,14 @@
  - [Threaded Binary Search Tree](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Tree/ThreadedBST.C).
  - [AVL Tree](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Tree/AVL.c).
  - [Max Heap](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Tree/MaxHeapWithArray.c).
+ ## Graph
+ - [Graph Creation](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Graph/graph.cpp).
+ - [DFS](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Graph/graph.cpp).
+ - [BFS](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Graph/graph.cpp).
+ - [Topological Sort](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Graph/graph.cpp).
+ - [Unweighted Sorted Path](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Graph/graph.cpp).
+ - [Dijkstra's Algo Sorted Path](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Graph/graph.cpp).
+ 
  
  
  
