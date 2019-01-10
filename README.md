@@ -25,6 +25,8 @@
  - [Topological Sort](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Graph/graph.cpp).
  - [Unweighted Sorted Path](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Graph/graph.cpp).
  - [Dijkstra's Algo Sorted Path](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Graph/graph.cpp).
+  ## Hashing
+ - [Linear Probing](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Hashing/LinearProbing.c).
  
  
  
