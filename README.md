@@ -15,7 +15,6 @@
  ## Tree
  - [Binary Search Tree Using CPP](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Tree/BST.cpp).
  - [Threaded Binary Search Tree](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Tree/ThreadedBST.C).
- - [AVL Tree](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Tree/AVL.c).
  ## Priority queue
  - [Priority Queue](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Queue/PriorityQueue.c).
  - [Max Heap](https://github.com/AMIYAMAITY/Data-structure/blob/master/Data%20Structure/Tree/MaxHeapWithArray.c).
